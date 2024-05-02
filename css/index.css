@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gainsboro;
+}
+.title,.subtitle {
+    text-align: center;
+    background-color: goldenrod;
+    font-weight: bold;
+}
+.subtitle{
+    text-align: left;
+}
+.list{
+    text-align: center;
+    background-color:lemonchiffon;
+    font-size: large;
+    font-weight: bold;
+}
+

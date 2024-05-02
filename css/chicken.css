@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: beige;
+}
+.return{
+    background-color: goldenrod;
+}
+.title{
+    text-align: center;
+    background-color: goldenrod;
+}
+#image{
+    background-color: beige;
+}
+.para{
+    background-color: azure;
+    font-weight: bolder;
+}
+h2 {
+    background-color: goldenrod;
+}
+.list{
+    font-style: italic;
+}
